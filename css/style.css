@@ -1,0 +1,25 @@
+/*#195962
+#F56F6C
+#FFFFFF
+#252932
+#191C21*/
+
+body {
+    background-color: #195962;
+}
+
+footer {
+    background-color: #F56F6C;
+    color: #191C21;
+}
+
+ul {
+    float: left;
+    width: 100%;
+    list-style-type: none;
+}
+
+.container {
+    width: 960px;
+    margin: 0 auto;
+}
